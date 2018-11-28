@@ -26,7 +26,7 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https://prototype1-nhvvmiwsxc.now.sh/login",
+        "url": "https://prototype1-nhvvmiwsxc.now.sh/",
         "action": {
           "trigger": "visit"
         }
