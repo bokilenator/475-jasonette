@@ -20,7 +20,10 @@
               "type": "$default"
             }
           }
-        ]
+        ],
+        "$pull": {
+          "type": "$reload"
+        }
       }
     },
     "body": {
